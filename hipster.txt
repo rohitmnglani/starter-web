@@ -1,0 +1,1 @@
+What we have done is to “jailbreak” the the AirSense 10 CPAP machine, a common, low-cost sleep therapy device intended to treat sleep apnea, so that it is possible to run additional tasks on the device. These new tasks add the features and adjust the range of parameters that make it possible to use the device as a temporary ventilator.
